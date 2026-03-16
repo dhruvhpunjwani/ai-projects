@@ -42,3 +42,15 @@ cardiomegaly-xray-classifier
 │
 ├── requirements.txt
 └── README.md
+
+
+## Training
+
+python src/train.py \
+  --csv_path data/Data_Entry_2017.csv \
+  --image_root data/images
+
+## Inference
+
+python src/predict.py \
+  --image_path examples/sample_xray.png

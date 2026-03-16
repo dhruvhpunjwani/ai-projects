@@ -32,3 +32,13 @@ Target class:
 - NumPy
 
 ## Project Structure
+cardiomegaly-xray-classifier
+│
+├── src
+│ ├── dataset.py
+│ ├── model.py
+│ ├── train.py
+│ └── predict.py
+│
+├── requirements.txt
+└── README.md

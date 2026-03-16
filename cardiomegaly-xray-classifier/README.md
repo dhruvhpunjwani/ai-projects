@@ -52,5 +52,14 @@ python src/train.py \
 
 ## Inference
 
-python src/predict.py \
-  --image_path examples/sample_xray.png
+## Example
+
+Input X-ray image:
+
+![Sample X-ray](examples/sample_xray.png)
+
+Prediction:
+{
+"predicted_class": "Cardiomegaly",
+"probability": 0.91
+}

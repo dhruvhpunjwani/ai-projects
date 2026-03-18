@@ -38,6 +38,8 @@ koala-detection-system/
 
 Local dataset format:
 ## Dataset Structure
+
+```text
 data/
 ├── train/
 │   ├── koala/
@@ -49,5 +51,29 @@ data/
     ├── koala/
     └── not_koala/
 ```
+
+## Installation
+pip install -r requirements.txt
+
+## Training
+cd src
+python train.py --data_dir ../data --epochs 8 --batch_size 32
+
+## Real - Time Inference
+using Webcam:
+
+cd src
+python inference.py --model_path ../models/best_model.pt --source 0
+
+
+using Video File:
+
+cd src
+python inference.py --model_path ../models/best_model.pt --source ../examples/koala_video.mp4
+
+##Notes
+This repository is intended for educational and portfolio purposes.
+Dataset images are not stored in the repository.
+Add data/, models/, and outputs/ locally when running the project.
 
 

@@ -76,4 +76,8 @@ This repository is intended for educational and portfolio purposes.
 Dataset images are not stored in the repository.
 Add data/, models/, and outputs/ locally when running the project.
 
+## Example Output
+
+![Koala Detection](examples/sample_frame.jpg)
+
 

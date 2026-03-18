@@ -32,6 +32,8 @@ Target class:
 - NumPy
 
 ## Project Structure
+
+```text
 cardiomegaly-xray-classifier
 │
 ├── src
@@ -42,6 +44,7 @@ cardiomegaly-xray-classifier
 │
 ├── requirements.txt
 └── README.md
+```
 
 
 ## Training
@@ -50,9 +53,7 @@ python src/train.py \
   --csv_path data/Data_Entry_2017.csv \
   --image_root data/images
 
-## Inference
-
-## Example
+## Inference Example
 
 Input X-ray image:
 

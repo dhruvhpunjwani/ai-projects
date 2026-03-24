@@ -69,3 +69,5 @@ python train.py
 cd src
 python inference.py
 ```
+
+#Sample Output

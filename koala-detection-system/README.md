@@ -53,23 +53,28 @@ data/
 ```
 
 ## Installation
+```text
 pip install -r requirements.txt
+```
 
 ## Training
+```text
 cd src
 python train.py --data_dir ../data --epochs 8 --batch_size 32
+```
 
 ## Real - Time Inference
 using Webcam:
-
+```text
 cd src
 python inference.py --model_path ../models/best_model.pt --source 0
-
+```
 
 using Video File:
-
+```text
 cd src
 python inference.py --model_path ../models/best_model.pt --source ../examples/koala_video.mp4
+```
 
 ##Notes
 This repository is intended for educational and portfolio purposes.

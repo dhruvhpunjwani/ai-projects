@@ -1,0 +1,6 @@
+gym
+gym-donkeycar
+stable-baselines3
+torch
+numpy
+opencv-python

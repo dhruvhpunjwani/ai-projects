@@ -1,0 +1,17 @@
+DONKEY_ENV_CONFIG = {
+    "exe_path": "path/to/donkeysim.exe",
+    "host": "127.0.0.1",
+    "port": 9091,
+    "body_style": "donkey",
+    "body_rgb": (128, 128, 128),
+    "car_name": "rl_agent",
+    "font_size": 100,
+    "racer_name": "Dhruv",
+    "country": "AU",
+    "bio": "PPO autonomous driving agent",
+    "guid": "12345678",
+    "max_cte": 5.0,
+    "frame_skip": 1,
+    "cam_resolution": (160, 120, 3),
+    "log_level": 20,
+}

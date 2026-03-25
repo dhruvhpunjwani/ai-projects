@@ -62,3 +62,8 @@ Attendance is saved to:
 ```text
 outputs/attendance.csv
 ```
+
+
+### Preview
+
+![Attendance Preview](examples/attendance_preview.png)

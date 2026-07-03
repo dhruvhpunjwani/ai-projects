@@ -1,0 +1,4 @@
+strategy,total_race_time_seconds,pit_stops,average_lap_time,time_gap_to_best
+One-stop M-H,5274.992,1,90.94813793103448,0.0
+Two-stop S-M-H,5278.227,2,91.00391379310345,3.2349999999996726
+Two-stop M-H-M,5281.672,2,91.06331034482758,6.6799999999993815

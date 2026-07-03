@@ -1,0 +1,465 @@
+driver,team,lap,stint,compound,tyre_age,pit_stop,safety_car,fuel_effect,track_evolution,lap_time_seconds
+HAM,Mercedes,1,1,Medium,1,0,0,1.995,-0.008,91.066
+HAM,Mercedes,2,1,Medium,2,0,0,1.96,-0.016,90.919
+HAM,Mercedes,3,1,Medium,3,0,0,1.925,-0.024,91.128
+HAM,Mercedes,4,1,Medium,4,0,0,1.89,-0.032,91.359
+HAM,Mercedes,5,1,Medium,5,0,0,1.855,-0.04,90.931
+HAM,Mercedes,6,1,Medium,6,0,0,1.82,-0.048,90.943
+HAM,Mercedes,7,1,Medium,7,0,0,1.785,-0.056,91.409
+HAM,Mercedes,8,1,Medium,8,0,0,1.75,-0.064,91.218
+HAM,Mercedes,9,1,Medium,9,0,0,1.715,-0.072,90.921
+HAM,Mercedes,10,1,Medium,10,0,0,1.68,-0.08,91.186
+HAM,Mercedes,11,1,Medium,11,0,0,1.645,-0.088,90.946
+HAM,Mercedes,12,1,Medium,12,0,0,1.61,-0.096,90.958
+HAM,Mercedes,13,1,Medium,13,0,0,1.575,-0.104,91.146
+HAM,Mercedes,14,1,Medium,14,0,0,1.54,-0.112,90.62
+HAM,Mercedes,15,1,Medium,15,0,0,1.505,-0.12,90.679
+HAM,Mercedes,16,1,Medium,16,0,0,1.47,-0.128,90.981
+HAM,Mercedes,17,1,Medium,17,0,0,1.435,-0.136,90.881
+HAM,Mercedes,18,1,Medium,18,0,0,1.4,-0.144,91.225
+HAM,Mercedes,19,2,Hard,1,1,0,1.365,-0.152,90.371
+HAM,Mercedes,20,2,Hard,2,0,0,1.33,-0.16,90.237
+HAM,Mercedes,21,2,Hard,3,0,0,1.295,-0.168,90.948
+HAM,Mercedes,22,2,Hard,4,0,0,1.26,-0.176,90.518
+HAM,Mercedes,23,2,Hard,5,0,0,1.225,-0.184,90.583
+HAM,Mercedes,24,2,Hard,6,0,1,1.19,-0.192,105.756
+HAM,Mercedes,25,2,Hard,7,0,1,1.155,-0.2,102.541
+HAM,Mercedes,26,2,Hard,8,0,1,1.12,-0.208,103.026
+HAM,Mercedes,27,2,Hard,9,0,1,1.085,-0.216,108.077
+HAM,Mercedes,28,2,Hard,10,0,0,1.05,-0.224,90.453
+HAM,Mercedes,29,2,Hard,11,0,0,1.015,-0.232,90.368
+HAM,Mercedes,30,2,Hard,12,0,0,0.98,-0.24,90.973
+HAM,Mercedes,31,2,Hard,13,0,0,0.945,-0.248,90.499
+HAM,Mercedes,32,2,Hard,14,0,0,0.91,-0.256,90.23
+HAM,Mercedes,33,2,Hard,15,0,0,0.875,-0.264,90.692
+HAM,Mercedes,34,2,Hard,16,0,0,0.84,-0.272,90.173
+HAM,Mercedes,35,2,Hard,17,0,0,0.805,-0.28,90.522
+HAM,Mercedes,36,2,Hard,18,0,0,0.77,-0.288,89.972
+HAM,Mercedes,37,2,Hard,19,0,0,0.735,-0.296,90.122
+HAM,Mercedes,38,2,Hard,20,0,0,0.7,-0.304,90.495
+HAM,Mercedes,39,3,Medium,1,1,0,0.665,-0.312,89.493
+HAM,Mercedes,40,3,Medium,2,0,0,0.63,-0.32,89.363
+HAM,Mercedes,41,3,Medium,3,0,0,0.595,-0.328,89.303
+HAM,Mercedes,42,3,Medium,4,0,0,0.56,-0.336,89.269
+HAM,Mercedes,43,3,Medium,5,0,0,0.525,-0.344,88.986
+HAM,Mercedes,44,3,Medium,6,0,0,0.49,-0.352,89.188
+HAM,Mercedes,45,3,Medium,7,0,0,0.455,-0.36,89.265
+HAM,Mercedes,46,3,Medium,8,0,0,0.42,-0.368,89.656
+HAM,Mercedes,47,3,Medium,9,0,0,0.385,-0.376,89.49
+HAM,Mercedes,48,3,Medium,10,0,0,0.35,-0.384,88.975
+HAM,Mercedes,49,3,Medium,11,0,0,0.315,-0.392,89.509
+HAM,Mercedes,50,3,Medium,12,0,0,0.28,-0.4,89.344
+HAM,Mercedes,51,3,Medium,13,0,0,0.245,-0.408,89.283
+HAM,Mercedes,52,3,Medium,14,0,0,0.21,-0.416,89.617
+HAM,Mercedes,53,3,Medium,15,0,0,0.175,-0.424,89.734
+HAM,Mercedes,54,3,Medium,16,0,0,0.14,-0.432,89.721
+HAM,Mercedes,55,3,Medium,17,0,0,0.105,-0.44,89.29
+HAM,Mercedes,56,3,Medium,18,0,0,0.07,-0.448,89.435
+HAM,Mercedes,57,3,Medium,19,0,0,0.035,-0.456,89.607
+HAM,Mercedes,58,3,Medium,20,0,0,0.0,-0.464,89.78
+RUS,Mercedes,1,1,Medium,1,0,0,1.995,-0.008,90.972
+RUS,Mercedes,2,1,Medium,2,0,0,1.96,-0.016,91.058
+RUS,Mercedes,3,1,Medium,3,0,0,1.925,-0.024,90.839
+RUS,Mercedes,4,1,Medium,4,0,0,1.89,-0.032,90.829
+RUS,Mercedes,5,1,Medium,5,0,0,1.855,-0.04,91.343
+RUS,Mercedes,6,1,Medium,6,0,0,1.82,-0.048,91.491
+RUS,Mercedes,7,1,Medium,7,0,0,1.785,-0.056,91.146
+RUS,Mercedes,8,1,Medium,8,0,0,1.75,-0.064,91.427
+RUS,Mercedes,9,1,Medium,9,0,0,1.715,-0.072,91.278
+RUS,Mercedes,10,1,Medium,10,0,0,1.68,-0.08,91.039
+RUS,Mercedes,11,1,Medium,11,0,0,1.645,-0.088,91.302
+RUS,Mercedes,12,1,Medium,12,0,0,1.61,-0.096,91.609
+RUS,Mercedes,13,1,Medium,13,0,0,1.575,-0.104,91.227
+RUS,Mercedes,14,1,Medium,14,0,0,1.54,-0.112,91.639
+RUS,Mercedes,15,1,Medium,15,0,0,1.505,-0.12,90.605
+RUS,Mercedes,16,1,Medium,16,0,0,1.47,-0.128,91.477
+RUS,Mercedes,17,1,Medium,17,0,0,1.435,-0.136,91.306
+RUS,Mercedes,18,1,Medium,18,0,0,1.4,-0.144,91.221
+RUS,Mercedes,19,1,Medium,19,0,0,1.365,-0.152,91.331
+RUS,Mercedes,20,1,Medium,20,0,0,1.33,-0.16,90.823
+RUS,Mercedes,21,2,Hard,1,1,0,1.295,-0.168,90.607
+RUS,Mercedes,22,2,Hard,2,0,0,1.26,-0.176,90.743
+RUS,Mercedes,23,2,Hard,3,0,0,1.225,-0.184,91.015
+RUS,Mercedes,24,2,Hard,4,0,1,1.19,-0.192,103.881
+RUS,Mercedes,25,2,Hard,5,0,1,1.155,-0.2,102.89
+RUS,Mercedes,26,2,Hard,6,0,1,1.12,-0.208,108.075
+RUS,Mercedes,27,2,Hard,7,0,1,1.085,-0.216,107.692
+RUS,Mercedes,28,2,Hard,8,0,0,1.05,-0.224,90.688
+RUS,Mercedes,29,2,Hard,9,0,0,1.015,-0.232,90.466
+RUS,Mercedes,30,2,Hard,10,0,0,0.98,-0.24,90.718
+RUS,Mercedes,31,2,Hard,11,0,0,0.945,-0.248,90.606
+RUS,Mercedes,32,2,Hard,12,0,0,0.91,-0.256,90.816
+RUS,Mercedes,33,2,Hard,13,0,0,0.875,-0.264,90.39
+RUS,Mercedes,34,2,Hard,14,0,0,0.84,-0.272,90.476
+RUS,Mercedes,35,2,Hard,15,0,0,0.805,-0.28,90.452
+RUS,Mercedes,36,2,Hard,16,0,0,0.77,-0.288,90.176
+RUS,Mercedes,37,2,Hard,17,0,0,0.735,-0.296,90.608
+RUS,Mercedes,38,2,Hard,18,0,0,0.7,-0.304,90.591
+RUS,Mercedes,39,2,Hard,19,0,0,0.665,-0.312,90.519
+RUS,Mercedes,40,2,Hard,20,0,0,0.63,-0.32,90.451
+RUS,Mercedes,41,2,Hard,21,0,0,0.595,-0.328,90.148
+RUS,Mercedes,42,2,Hard,22,0,0,0.56,-0.336,90.389
+RUS,Mercedes,43,2,Hard,23,0,0,0.525,-0.344,90.4
+RUS,Mercedes,44,2,Hard,24,0,0,0.49,-0.352,90.277
+RUS,Mercedes,45,2,Hard,25,0,0,0.455,-0.36,90.43
+RUS,Mercedes,46,2,Hard,26,0,0,0.42,-0.368,90.563
+RUS,Mercedes,47,2,Hard,27,0,0,0.385,-0.376,90.926
+RUS,Mercedes,48,2,Hard,28,0,0,0.35,-0.384,90.49
+RUS,Mercedes,49,2,Hard,29,0,0,0.315,-0.392,90.502
+RUS,Mercedes,50,2,Hard,30,0,0,0.28,-0.4,90.411
+RUS,Mercedes,51,2,Hard,31,0,0,0.245,-0.408,89.942
+RUS,Mercedes,52,2,Hard,32,0,0,0.21,-0.416,90.407
+RUS,Mercedes,53,2,Hard,33,0,0,0.175,-0.424,90.421
+RUS,Mercedes,54,2,Hard,34,0,0,0.14,-0.432,91.014
+RUS,Mercedes,55,2,Hard,35,0,0,0.105,-0.44,90.342
+RUS,Mercedes,56,2,Hard,36,0,0,0.07,-0.448,90.457
+RUS,Mercedes,57,2,Hard,37,0,0,0.035,-0.456,90.365
+RUS,Mercedes,58,2,Hard,38,0,0,0.0,-0.464,90.074
+VER,Red Bull,1,1,Medium,1,0,0,1.995,-0.008,90.478
+VER,Red Bull,2,1,Medium,2,0,0,1.96,-0.016,90.392
+VER,Red Bull,3,1,Medium,3,0,0,1.925,-0.024,90.414
+VER,Red Bull,4,1,Medium,4,0,0,1.89,-0.032,90.001
+VER,Red Bull,5,1,Medium,5,0,0,1.855,-0.04,90.591
+VER,Red Bull,6,1,Medium,6,0,0,1.82,-0.048,89.902
+VER,Red Bull,7,1,Medium,7,0,0,1.785,-0.056,90.411
+VER,Red Bull,8,1,Medium,8,0,0,1.75,-0.064,90.824
+VER,Red Bull,9,1,Medium,9,0,0,1.715,-0.072,90.04
+VER,Red Bull,10,1,Medium,10,0,0,1.68,-0.08,90.158
+VER,Red Bull,11,1,Medium,11,0,0,1.645,-0.088,90.337
+VER,Red Bull,12,1,Medium,12,0,0,1.61,-0.096,90.198
+VER,Red Bull,13,1,Medium,13,0,0,1.575,-0.104,89.948
+VER,Red Bull,14,1,Medium,14,0,0,1.54,-0.112,90.365
+VER,Red Bull,15,1,Medium,15,0,0,1.505,-0.12,90.094
+VER,Red Bull,16,1,Medium,16,0,0,1.47,-0.128,90.49
+VER,Red Bull,17,1,Medium,17,0,0,1.435,-0.136,90.154
+VER,Red Bull,18,1,Medium,18,0,0,1.4,-0.144,90.783
+VER,Red Bull,19,1,Medium,19,0,0,1.365,-0.152,90.212
+VER,Red Bull,20,2,Hard,1,1,0,1.33,-0.16,89.724
+VER,Red Bull,21,2,Hard,2,0,0,1.295,-0.168,90.0
+VER,Red Bull,22,2,Hard,3,0,0,1.26,-0.176,89.481
+VER,Red Bull,23,2,Hard,4,0,0,1.225,-0.184,89.838
+VER,Red Bull,24,2,Hard,5,0,1,1.19,-0.192,105.278
+VER,Red Bull,25,2,Hard,6,0,1,1.155,-0.2,103.281
+VER,Red Bull,26,2,Hard,7,0,1,1.12,-0.208,103.987
+VER,Red Bull,27,2,Hard,8,0,1,1.085,-0.216,103.975
+VER,Red Bull,28,2,Hard,9,0,0,1.05,-0.224,89.815
+VER,Red Bull,29,2,Hard,10,0,0,1.015,-0.232,89.796
+VER,Red Bull,30,2,Hard,11,0,0,0.98,-0.24,89.812
+VER,Red Bull,31,2,Hard,12,0,0,0.945,-0.248,89.547
+VER,Red Bull,32,2,Hard,13,0,0,0.91,-0.256,89.767
+VER,Red Bull,33,2,Hard,14,0,0,0.875,-0.264,89.774
+VER,Red Bull,34,2,Hard,15,0,0,0.84,-0.272,89.514
+VER,Red Bull,35,2,Hard,16,0,0,0.805,-0.28,90.151
+VER,Red Bull,36,2,Hard,17,0,0,0.77,-0.288,89.795
+VER,Red Bull,37,2,Hard,18,0,0,0.735,-0.296,89.371
+VER,Red Bull,38,2,Hard,19,0,0,0.7,-0.304,89.825
+VER,Red Bull,39,2,Hard,20,0,0,0.665,-0.312,89.409
+VER,Red Bull,40,2,Hard,21,0,0,0.63,-0.32,89.842
+VER,Red Bull,41,2,Hard,22,0,0,0.595,-0.328,89.927
+VER,Red Bull,42,2,Hard,23,0,0,0.56,-0.336,89.424
+VER,Red Bull,43,2,Hard,24,0,0,0.525,-0.344,89.862
+VER,Red Bull,44,2,Hard,25,0,0,0.49,-0.352,89.716
+VER,Red Bull,45,2,Hard,26,0,0,0.455,-0.36,89.811
+VER,Red Bull,46,2,Hard,27,0,0,0.42,-0.368,90.071
+VER,Red Bull,47,2,Hard,28,0,0,0.385,-0.376,89.528
+VER,Red Bull,48,2,Hard,29,0,0,0.35,-0.384,89.393
+VER,Red Bull,49,2,Hard,30,0,0,0.315,-0.392,89.351
+VER,Red Bull,50,2,Hard,31,0,0,0.28,-0.4,89.361
+VER,Red Bull,51,2,Hard,32,0,0,0.245,-0.408,89.538
+VER,Red Bull,52,2,Hard,33,0,0,0.21,-0.416,89.634
+VER,Red Bull,53,2,Hard,34,0,0,0.175,-0.424,89.61
+VER,Red Bull,54,2,Hard,35,0,0,0.14,-0.432,89.74
+VER,Red Bull,55,2,Hard,36,0,0,0.105,-0.44,89.528
+VER,Red Bull,56,2,Hard,37,0,0,0.07,-0.448,89.88
+VER,Red Bull,57,2,Hard,38,0,0,0.035,-0.456,89.443
+VER,Red Bull,58,2,Hard,39,0,0,0.0,-0.464,90.181
+PER,Red Bull,1,1,Soft,1,0,0,1.995,-0.008,90.188
+PER,Red Bull,2,1,Soft,2,0,0,1.96,-0.016,89.87
+PER,Red Bull,3,1,Soft,3,0,0,1.925,-0.024,89.868
+PER,Red Bull,4,1,Soft,4,0,0,1.89,-0.032,90.309
+PER,Red Bull,5,1,Soft,5,0,0,1.855,-0.04,90.184
+PER,Red Bull,6,1,Soft,6,0,0,1.82,-0.048,90.471
+PER,Red Bull,7,1,Soft,7,0,0,1.785,-0.056,90.462
+PER,Red Bull,8,1,Soft,8,0,0,1.75,-0.064,90.378
+PER,Red Bull,9,1,Soft,9,0,0,1.715,-0.072,90.236
+PER,Red Bull,10,1,Soft,10,0,0,1.68,-0.08,90.121
+PER,Red Bull,11,1,Soft,11,0,0,1.645,-0.088,90.44
+PER,Red Bull,12,1,Soft,12,0,0,1.61,-0.096,90.818
+PER,Red Bull,13,1,Soft,13,0,0,1.575,-0.104,90.71
+PER,Red Bull,14,1,Soft,14,0,0,1.54,-0.112,90.397
+PER,Red Bull,15,1,Soft,15,0,0,1.505,-0.12,90.803
+PER,Red Bull,16,1,Soft,16,0,0,1.47,-0.128,90.908
+PER,Red Bull,17,1,Soft,17,0,0,1.435,-0.136,90.643
+PER,Red Bull,18,2,Medium,1,1,0,1.4,-0.144,89.899
+PER,Red Bull,19,2,Medium,2,0,0,1.365,-0.152,89.888
+PER,Red Bull,20,2,Medium,3,0,0,1.33,-0.16,89.599
+PER,Red Bull,21,2,Medium,4,0,0,1.295,-0.168,89.986
+PER,Red Bull,22,2,Medium,5,0,0,1.26,-0.176,90.049
+PER,Red Bull,23,2,Medium,6,0,0,1.225,-0.184,90.192
+PER,Red Bull,24,2,Medium,7,0,1,1.19,-0.192,104.353
+PER,Red Bull,25,2,Medium,8,0,1,1.155,-0.2,103.835
+PER,Red Bull,26,2,Medium,9,0,1,1.12,-0.208,107.288
+PER,Red Bull,27,2,Medium,10,0,1,1.085,-0.216,107.577
+PER,Red Bull,28,2,Medium,11,0,0,1.05,-0.224,90.944
+PER,Red Bull,29,2,Medium,12,0,0,1.015,-0.232,90.136
+PER,Red Bull,30,2,Medium,13,0,0,0.98,-0.24,90.289
+PER,Red Bull,31,2,Medium,14,0,0,0.945,-0.248,90.256
+PER,Red Bull,32,2,Medium,15,0,0,0.91,-0.256,90.192
+PER,Red Bull,33,2,Medium,16,0,0,0.875,-0.264,89.962
+PER,Red Bull,34,2,Medium,17,0,0,0.84,-0.272,90.243
+PER,Red Bull,35,2,Medium,18,0,0,0.805,-0.28,89.872
+PER,Red Bull,36,2,Medium,19,0,0,0.77,-0.288,90.018
+PER,Red Bull,37,2,Medium,20,0,0,0.735,-0.296,89.968
+PER,Red Bull,38,2,Medium,21,0,0,0.7,-0.304,90.121
+PER,Red Bull,39,2,Medium,22,0,0,0.665,-0.312,90.692
+PER,Red Bull,40,3,Hard,1,1,0,0.63,-0.32,88.878
+PER,Red Bull,41,3,Hard,2,0,0,0.595,-0.328,89.509
+PER,Red Bull,42,3,Hard,3,0,0,0.56,-0.336,88.926
+PER,Red Bull,43,3,Hard,4,0,0,0.525,-0.344,89.203
+PER,Red Bull,44,3,Hard,5,0,0,0.49,-0.352,89.585
+PER,Red Bull,45,3,Hard,6,0,0,0.455,-0.36,89.321
+PER,Red Bull,46,3,Hard,7,0,0,0.42,-0.368,89.028
+PER,Red Bull,47,3,Hard,8,0,0,0.385,-0.376,89.11
+PER,Red Bull,48,3,Hard,9,0,0,0.35,-0.384,89.451
+PER,Red Bull,49,3,Hard,10,0,0,0.315,-0.392,89.09
+PER,Red Bull,50,3,Hard,11,0,0,0.28,-0.4,89.319
+PER,Red Bull,51,3,Hard,12,0,0,0.245,-0.408,89.268
+PER,Red Bull,52,3,Hard,13,0,0,0.21,-0.416,89.086
+PER,Red Bull,53,3,Hard,14,0,0,0.175,-0.424,89.777
+PER,Red Bull,54,3,Hard,15,0,0,0.14,-0.432,89.391
+PER,Red Bull,55,3,Hard,16,0,0,0.105,-0.44,88.719
+PER,Red Bull,56,3,Hard,17,0,0,0.07,-0.448,89.264
+PER,Red Bull,57,3,Hard,18,0,0,0.035,-0.456,89.044
+PER,Red Bull,58,3,Hard,19,0,0,0.0,-0.464,89.414
+LEC,Ferrari,1,1,Soft,1,0,0,1.995,-0.008,90.434
+LEC,Ferrari,2,1,Soft,2,0,0,1.96,-0.016,90.655
+LEC,Ferrari,3,1,Soft,3,0,0,1.925,-0.024,90.862
+LEC,Ferrari,4,1,Soft,4,0,0,1.89,-0.032,91.004
+LEC,Ferrari,5,1,Soft,5,0,0,1.855,-0.04,90.54
+LEC,Ferrari,6,1,Soft,6,0,0,1.82,-0.048,90.808
+LEC,Ferrari,7,1,Soft,7,0,0,1.785,-0.056,90.825
+LEC,Ferrari,8,1,Soft,8,0,0,1.75,-0.064,90.833
+LEC,Ferrari,9,1,Soft,9,0,0,1.715,-0.072,91.489
+LEC,Ferrari,10,1,Soft,10,0,0,1.68,-0.08,91.201
+LEC,Ferrari,11,1,Soft,11,0,0,1.645,-0.088,90.837
+LEC,Ferrari,12,1,Soft,12,0,0,1.61,-0.096,91.433
+LEC,Ferrari,13,1,Soft,13,0,0,1.575,-0.104,91.787
+LEC,Ferrari,14,1,Soft,14,0,0,1.54,-0.112,91.566
+LEC,Ferrari,15,1,Soft,15,0,0,1.505,-0.12,90.98
+LEC,Ferrari,16,1,Soft,16,0,0,1.47,-0.128,91.291
+LEC,Ferrari,17,2,Medium,1,1,0,1.435,-0.136,90.821
+LEC,Ferrari,18,2,Medium,2,0,0,1.4,-0.144,90.339
+LEC,Ferrari,19,2,Medium,3,0,0,1.365,-0.152,90.639
+LEC,Ferrari,20,2,Medium,4,0,0,1.33,-0.16,90.734
+LEC,Ferrari,21,2,Medium,5,0,0,1.295,-0.168,90.32
+LEC,Ferrari,22,2,Medium,6,0,0,1.26,-0.176,90.549
+LEC,Ferrari,23,2,Medium,7,0,0,1.225,-0.184,89.766
+LEC,Ferrari,24,2,Medium,8,0,1,1.19,-0.192,103.371
+LEC,Ferrari,25,2,Medium,9,0,1,1.155,-0.2,105.611
+LEC,Ferrari,26,2,Medium,10,0,1,1.12,-0.208,106.065
+LEC,Ferrari,27,2,Medium,11,0,1,1.085,-0.216,103.256
+LEC,Ferrari,28,2,Medium,12,0,0,1.05,-0.224,90.277
+LEC,Ferrari,29,2,Medium,13,0,0,1.015,-0.232,90.939
+LEC,Ferrari,30,2,Medium,14,0,0,0.98,-0.24,90.663
+LEC,Ferrari,31,2,Medium,15,0,0,0.945,-0.248,90.427
+LEC,Ferrari,32,2,Medium,16,0,0,0.91,-0.256,90.8
+LEC,Ferrari,33,2,Medium,17,0,0,0.875,-0.264,90.746
+LEC,Ferrari,34,2,Medium,18,0,0,0.84,-0.272,90.558
+LEC,Ferrari,35,2,Medium,19,0,0,0.805,-0.28,90.737
+LEC,Ferrari,36,2,Medium,20,0,0,0.77,-0.288,90.636
+LEC,Ferrari,37,2,Medium,21,0,0,0.735,-0.296,90.772
+LEC,Ferrari,38,3,Hard,1,1,0,0.7,-0.304,90.197
+LEC,Ferrari,39,3,Hard,2,0,0,0.665,-0.312,90.42
+LEC,Ferrari,40,3,Hard,3,0,0,0.63,-0.32,89.706
+LEC,Ferrari,41,3,Hard,4,0,0,0.595,-0.328,90.54
+LEC,Ferrari,42,3,Hard,5,0,0,0.56,-0.336,89.511
+LEC,Ferrari,43,3,Hard,6,0,0,0.525,-0.344,89.953
+LEC,Ferrari,44,3,Hard,7,0,0,0.49,-0.352,90.13
+LEC,Ferrari,45,3,Hard,8,0,0,0.455,-0.36,90.045
+LEC,Ferrari,46,3,Hard,9,0,0,0.42,-0.368,89.811
+LEC,Ferrari,47,3,Hard,10,0,0,0.385,-0.376,89.907
+LEC,Ferrari,48,3,Hard,11,0,0,0.35,-0.384,89.828
+LEC,Ferrari,49,3,Hard,12,0,0,0.315,-0.392,89.796
+LEC,Ferrari,50,3,Hard,13,0,0,0.28,-0.4,90.147
+LEC,Ferrari,51,3,Hard,14,0,0,0.245,-0.408,90.016
+LEC,Ferrari,52,3,Hard,15,0,0,0.21,-0.416,89.746
+LEC,Ferrari,53,3,Hard,16,0,0,0.175,-0.424,90.136
+LEC,Ferrari,54,3,Hard,17,0,0,0.14,-0.432,89.98
+LEC,Ferrari,55,3,Hard,18,0,0,0.105,-0.44,90.098
+LEC,Ferrari,56,3,Hard,19,0,0,0.07,-0.448,90.044
+LEC,Ferrari,57,3,Hard,20,0,0,0.035,-0.456,89.672
+LEC,Ferrari,58,3,Hard,21,0,0,0.0,-0.464,89.731
+SAI,Ferrari,1,1,Medium,1,0,0,1.995,-0.008,91.529
+SAI,Ferrari,2,1,Medium,2,0,0,1.96,-0.016,91.507
+SAI,Ferrari,3,1,Medium,3,0,0,1.925,-0.024,91.361
+SAI,Ferrari,4,1,Medium,4,0,0,1.89,-0.032,91.407
+SAI,Ferrari,5,1,Medium,5,0,0,1.855,-0.04,91.709
+SAI,Ferrari,6,1,Medium,6,0,0,1.82,-0.048,91.254
+SAI,Ferrari,7,1,Medium,7,0,0,1.785,-0.056,91.551
+SAI,Ferrari,8,1,Medium,8,0,0,1.75,-0.064,91.375
+SAI,Ferrari,9,1,Medium,9,0,0,1.715,-0.072,91.384
+SAI,Ferrari,10,1,Medium,10,0,0,1.68,-0.08,91.725
+SAI,Ferrari,11,1,Medium,11,0,0,1.645,-0.088,91.668
+SAI,Ferrari,12,1,Medium,12,0,0,1.61,-0.096,91.677
+SAI,Ferrari,13,1,Medium,13,0,0,1.575,-0.104,91.812
+SAI,Ferrari,14,1,Medium,14,0,0,1.54,-0.112,91.503
+SAI,Ferrari,15,1,Medium,15,0,0,1.505,-0.12,91.68
+SAI,Ferrari,16,1,Medium,16,0,0,1.47,-0.128,91.444
+SAI,Ferrari,17,1,Medium,17,0,0,1.435,-0.136,91.615
+SAI,Ferrari,18,1,Medium,18,0,0,1.4,-0.144,91.513
+SAI,Ferrari,19,1,Medium,19,0,0,1.365,-0.152,91.582
+SAI,Ferrari,20,1,Medium,20,0,0,1.33,-0.16,91.719
+SAI,Ferrari,21,1,Medium,21,0,0,1.295,-0.168,91.377
+SAI,Ferrari,22,2,Hard,1,1,0,1.26,-0.176,91.392
+SAI,Ferrari,23,2,Hard,2,0,0,1.225,-0.184,90.609
+SAI,Ferrari,24,2,Hard,3,0,1,1.19,-0.192,106.585
+SAI,Ferrari,25,2,Hard,4,0,1,1.155,-0.2,107.515
+SAI,Ferrari,26,2,Hard,5,0,1,1.12,-0.208,103.541
+SAI,Ferrari,27,2,Hard,6,0,1,1.085,-0.216,105.814
+SAI,Ferrari,28,2,Hard,7,0,0,1.05,-0.224,90.652
+SAI,Ferrari,29,2,Hard,8,0,0,1.015,-0.232,91.057
+SAI,Ferrari,30,2,Hard,9,0,0,0.98,-0.24,90.768
+SAI,Ferrari,31,2,Hard,10,0,0,0.945,-0.248,90.591
+SAI,Ferrari,32,2,Hard,11,0,0,0.91,-0.256,90.709
+SAI,Ferrari,33,2,Hard,12,0,0,0.875,-0.264,90.884
+SAI,Ferrari,34,2,Hard,13,0,0,0.84,-0.272,90.632
+SAI,Ferrari,35,2,Hard,14,0,0,0.805,-0.28,90.559
+SAI,Ferrari,36,2,Hard,15,0,0,0.77,-0.288,90.818
+SAI,Ferrari,37,2,Hard,16,0,0,0.735,-0.296,90.81
+SAI,Ferrari,38,2,Hard,17,0,0,0.7,-0.304,90.614
+SAI,Ferrari,39,2,Hard,18,0,0,0.665,-0.312,90.615
+SAI,Ferrari,40,2,Hard,19,0,0,0.63,-0.32,90.783
+SAI,Ferrari,41,2,Hard,20,0,0,0.595,-0.328,90.355
+SAI,Ferrari,42,2,Hard,21,0,0,0.56,-0.336,90.357
+SAI,Ferrari,43,2,Hard,22,0,0,0.525,-0.344,90.521
+SAI,Ferrari,44,2,Hard,23,0,0,0.49,-0.352,90.64
+SAI,Ferrari,45,2,Hard,24,0,0,0.455,-0.36,90.763
+SAI,Ferrari,46,2,Hard,25,0,0,0.42,-0.368,91.046
+SAI,Ferrari,47,2,Hard,26,0,0,0.385,-0.376,90.883
+SAI,Ferrari,48,2,Hard,27,0,0,0.35,-0.384,90.621
+SAI,Ferrari,49,2,Hard,28,0,0,0.315,-0.392,90.648
+SAI,Ferrari,50,2,Hard,29,0,0,0.28,-0.4,90.394
+SAI,Ferrari,51,2,Hard,30,0,0,0.245,-0.408,90.632
+SAI,Ferrari,52,2,Hard,31,0,0,0.21,-0.416,90.557
+SAI,Ferrari,53,2,Hard,32,0,0,0.175,-0.424,90.702
+SAI,Ferrari,54,2,Hard,33,0,0,0.14,-0.432,90.406
+SAI,Ferrari,55,2,Hard,34,0,0,0.105,-0.44,90.735
+SAI,Ferrari,56,2,Hard,35,0,0,0.07,-0.448,90.98
+SAI,Ferrari,57,2,Hard,36,0,0,0.035,-0.456,90.562
+SAI,Ferrari,58,2,Hard,37,0,0,0.0,-0.464,90.681
+NOR,McLaren,1,1,Medium,1,0,0,1.995,-0.008,91.235
+NOR,McLaren,2,1,Medium,2,0,0,1.96,-0.016,90.974
+NOR,McLaren,3,1,Medium,3,0,0,1.925,-0.024,91.142
+NOR,McLaren,4,1,Medium,4,0,0,1.89,-0.032,91.101
+NOR,McLaren,5,1,Medium,5,0,0,1.855,-0.04,91.134
+NOR,McLaren,6,1,Medium,6,0,0,1.82,-0.048,90.929
+NOR,McLaren,7,1,Medium,7,0,0,1.785,-0.056,91.14
+NOR,McLaren,8,1,Medium,8,0,0,1.75,-0.064,91.27
+NOR,McLaren,9,1,Medium,9,0,0,1.715,-0.072,91.521
+NOR,McLaren,10,1,Medium,10,0,0,1.68,-0.08,91.41
+NOR,McLaren,11,1,Medium,11,0,0,1.645,-0.088,91.72
+NOR,McLaren,12,1,Medium,12,0,0,1.61,-0.096,91.002
+NOR,McLaren,13,1,Medium,13,0,0,1.575,-0.104,91.424
+NOR,McLaren,14,1,Medium,14,0,0,1.54,-0.112,91.264
+NOR,McLaren,15,1,Medium,15,0,0,1.505,-0.12,91.777
+NOR,McLaren,16,1,Medium,16,0,0,1.47,-0.128,91.04
+NOR,McLaren,17,1,Medium,17,0,0,1.435,-0.136,91.044
+NOR,McLaren,18,1,Medium,18,0,0,1.4,-0.144,91.116
+NOR,McLaren,19,2,Hard,1,1,0,1.365,-0.152,90.187
+NOR,McLaren,20,2,Hard,2,0,0,1.33,-0.16,90.579
+NOR,McLaren,21,2,Hard,3,0,0,1.295,-0.168,90.512
+NOR,McLaren,22,2,Hard,4,0,0,1.26,-0.176,90.732
+NOR,McLaren,23,2,Hard,5,0,0,1.225,-0.184,90.771
+NOR,McLaren,24,2,Hard,6,0,1,1.19,-0.192,105.004
+NOR,McLaren,25,2,Hard,7,0,1,1.155,-0.2,107.328
+NOR,McLaren,26,2,Hard,8,0,1,1.12,-0.208,108.251
+NOR,McLaren,27,2,Hard,9,0,1,1.085,-0.216,107.259
+NOR,McLaren,28,2,Hard,10,0,0,1.05,-0.224,91.104
+NOR,McLaren,29,2,Hard,11,0,0,1.015,-0.232,90.933
+NOR,McLaren,30,2,Hard,12,0,0,0.98,-0.24,90.513
+NOR,McLaren,31,2,Hard,13,0,0,0.945,-0.248,90.194
+NOR,McLaren,32,2,Hard,14,0,0,0.91,-0.256,90.952
+NOR,McLaren,33,2,Hard,15,0,0,0.875,-0.264,90.577
+NOR,McLaren,34,2,Hard,16,0,0,0.84,-0.272,90.907
+NOR,McLaren,35,2,Hard,17,0,0,0.805,-0.28,90.191
+NOR,McLaren,36,2,Hard,18,0,0,0.77,-0.288,90.432
+NOR,McLaren,37,2,Hard,19,0,0,0.735,-0.296,90.575
+NOR,McLaren,38,2,Hard,20,0,0,0.7,-0.304,90.578
+NOR,McLaren,39,2,Hard,21,0,0,0.665,-0.312,90.445
+NOR,McLaren,40,2,Hard,22,0,0,0.63,-0.32,90.706
+NOR,McLaren,41,3,Soft,1,1,0,0.595,-0.328,88.515
+NOR,McLaren,42,3,Soft,2,0,0,0.56,-0.336,88.798
+NOR,McLaren,43,3,Soft,3,0,0,0.525,-0.344,88.916
+NOR,McLaren,44,3,Soft,4,0,0,0.49,-0.352,89.067
+NOR,McLaren,45,3,Soft,5,0,0,0.455,-0.36,89.168
+NOR,McLaren,46,3,Soft,6,0,0,0.42,-0.368,88.761
+NOR,McLaren,47,3,Soft,7,0,0,0.385,-0.376,88.71
+NOR,McLaren,48,3,Soft,8,0,0,0.35,-0.384,89.465
+NOR,McLaren,49,3,Soft,9,0,0,0.315,-0.392,89.281
+NOR,McLaren,50,3,Soft,10,0,0,0.28,-0.4,89.063
+NOR,McLaren,51,3,Soft,11,0,0,0.245,-0.408,89.69
+NOR,McLaren,52,3,Soft,12,0,0,0.21,-0.416,89.383
+NOR,McLaren,53,3,Soft,13,0,0,0.175,-0.424,89.701
+NOR,McLaren,54,3,Soft,14,0,0,0.14,-0.432,89.475
+NOR,McLaren,55,3,Soft,15,0,0,0.105,-0.44,90.025
+NOR,McLaren,56,3,Soft,16,0,0,0.07,-0.448,90.001
+NOR,McLaren,57,3,Soft,17,0,0,0.035,-0.456,89.552
+NOR,McLaren,58,3,Soft,18,0,0,0.0,-0.464,89.909
+PIA,McLaren,1,1,Medium,1,0,0,1.995,-0.008,91.423
+PIA,McLaren,2,1,Medium,2,0,0,1.96,-0.016,91.616
+PIA,McLaren,3,1,Medium,3,0,0,1.925,-0.024,91.045
+PIA,McLaren,4,1,Medium,4,0,0,1.89,-0.032,91.47
+PIA,McLaren,5,1,Medium,5,0,0,1.855,-0.04,91.575
+PIA,McLaren,6,1,Medium,6,0,0,1.82,-0.048,90.882
+PIA,McLaren,7,1,Medium,7,0,0,1.785,-0.056,91.038
+PIA,McLaren,8,1,Medium,8,0,0,1.75,-0.064,90.836
+PIA,McLaren,9,1,Medium,9,0,0,1.715,-0.072,91.291
+PIA,McLaren,10,1,Medium,10,0,0,1.68,-0.08,91.549
+PIA,McLaren,11,1,Medium,11,0,0,1.645,-0.088,91.758
+PIA,McLaren,12,1,Medium,12,0,0,1.61,-0.096,91.413
+PIA,McLaren,13,1,Medium,13,0,0,1.575,-0.104,91.813
+PIA,McLaren,14,1,Medium,14,0,0,1.54,-0.112,91.073
+PIA,McLaren,15,1,Medium,15,0,0,1.505,-0.12,91.004
+PIA,McLaren,16,1,Medium,16,0,0,1.47,-0.128,91.428
+PIA,McLaren,17,1,Medium,17,0,0,1.435,-0.136,91.55
+PIA,McLaren,18,1,Medium,18,0,0,1.4,-0.144,91.458
+PIA,McLaren,19,1,Medium,19,0,0,1.365,-0.152,90.961
+PIA,McLaren,20,1,Medium,20,0,0,1.33,-0.16,91.468
+PIA,McLaren,21,1,Medium,21,0,0,1.295,-0.168,91.176
+PIA,McLaren,22,1,Medium,22,0,0,1.26,-0.176,91.681
+PIA,McLaren,23,2,Hard,1,1,0,1.225,-0.184,90.838
+PIA,McLaren,24,2,Hard,2,0,1,1.19,-0.192,103.594
+PIA,McLaren,25,2,Hard,3,0,1,1.155,-0.2,104.788
+PIA,McLaren,26,2,Hard,4,0,1,1.12,-0.208,106.966
+PIA,McLaren,27,2,Hard,5,0,1,1.085,-0.216,103.615
+PIA,McLaren,28,2,Hard,6,0,0,1.05,-0.224,90.508
+PIA,McLaren,29,2,Hard,7,0,0,1.015,-0.232,90.671
+PIA,McLaren,30,2,Hard,8,0,0,0.98,-0.24,90.431
+PIA,McLaren,31,2,Hard,9,0,0,0.945,-0.248,90.544
+PIA,McLaren,32,2,Hard,10,0,0,0.91,-0.256,90.375
+PIA,McLaren,33,2,Hard,11,0,0,0.875,-0.264,91.157
+PIA,McLaren,34,2,Hard,12,0,0,0.84,-0.272,90.667
+PIA,McLaren,35,2,Hard,13,0,0,0.805,-0.28,90.475
+PIA,McLaren,36,2,Hard,14,0,0,0.77,-0.288,90.695
+PIA,McLaren,37,2,Hard,15,0,0,0.735,-0.296,90.606
+PIA,McLaren,38,2,Hard,16,0,0,0.7,-0.304,90.571
+PIA,McLaren,39,2,Hard,17,0,0,0.665,-0.312,90.772
+PIA,McLaren,40,2,Hard,18,0,0,0.63,-0.32,90.799
+PIA,McLaren,41,2,Hard,19,0,0,0.595,-0.328,90.469
+PIA,McLaren,42,2,Hard,20,0,0,0.56,-0.336,90.45
+PIA,McLaren,43,2,Hard,21,0,0,0.525,-0.344,90.517
+PIA,McLaren,44,2,Hard,22,0,0,0.49,-0.352,90.003
+PIA,McLaren,45,2,Hard,23,0,0,0.455,-0.36,90.191
+PIA,McLaren,46,2,Hard,24,0,0,0.42,-0.368,90.904
+PIA,McLaren,47,2,Hard,25,0,0,0.385,-0.376,90.965
+PIA,McLaren,48,2,Hard,26,0,0,0.35,-0.384,90.484
+PIA,McLaren,49,2,Hard,27,0,0,0.315,-0.392,90.682
+PIA,McLaren,50,2,Hard,28,0,0,0.28,-0.4,90.608
+PIA,McLaren,51,2,Hard,29,0,0,0.245,-0.408,91.292
+PIA,McLaren,52,2,Hard,30,0,0,0.21,-0.416,90.794
+PIA,McLaren,53,2,Hard,31,0,0,0.175,-0.424,90.474
+PIA,McLaren,54,2,Hard,32,0,0,0.14,-0.432,90.259
+PIA,McLaren,55,2,Hard,33,0,0,0.105,-0.44,90.088
+PIA,McLaren,56,2,Hard,34,0,0,0.07,-0.448,90.533
+PIA,McLaren,57,2,Hard,35,0,0,0.035,-0.456,90.285
+PIA,McLaren,58,2,Hard,36,0,0,0.0,-0.464,90.11
